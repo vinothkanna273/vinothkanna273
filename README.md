@@ -1,5 +1,6 @@
-[![Braydon's GitHub Banner](banner.png)](https://braydoncoyer.dev)
+[![Vinoth Kanna M M GitHub Banner](banner.png)](https://vinothkanna273.me)
 <!-- <h1 align="center">Hi 👋, I'm Vinoth Kanna M M</h1> -->
+
 <h3 align="center" style="margin-top:-7px">I'm a <span style="color:#f03c2e">Software Engineering Student</span> who is passionate about Computer and eager to explore Technology.</h3>
 
 - 🌱 I’m currently learning <span style="color:#f03c2e;"><b>Machine Learning</b></span> and <span style="color:#f03c2e"><b>Web Development</b></span>
