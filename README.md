@@ -30,8 +30,5 @@
 
 
 ### 📈 My GitHub Contributions
-![snake gif](https://github.com/vinothkanna273/vinothkanna273/blob/output/github-contribution-grid-snake.gif)
-
-
 ![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
 
