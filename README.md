@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning <span style="color:#f03c2e;"><b>Machine Learning</b></span> and <span style="color:#f03c2e"><b>Web Development</b></span>
 
-- 👨‍💻 Connect with me by <b><a style="color:#f03c2e" href="https://vinothkanna273.me">vinothkanna273.me</a></b>
+- 👨‍💻 Connect with me by <b><a style="color:#f03c2e" href="https://vinothkanna.tech">vinothkanna.tech</a></b>
 
 - 📫 How to reach me <b><a style="color:#f03c2e" href="mailto:vinothkannaprt@gmail.com">vinothkannaprt@gmail.com</a></b>
 
