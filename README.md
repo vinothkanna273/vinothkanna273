@@ -1,4 +1,4 @@
-[![Vinoth Kanna M M GitHub Banner](banner.png)](https://vinothkanna273.me)
+[![Vinoth Kanna M M GitHub Banner](banner.png)](https://vinothkanna.tech)
 <!-- <h1 align="center">Hi 👋, I'm Vinoth Kanna M M</h1> -->
 
 <h3 align="center" style="margin-top:-7px">I'm a <span style="color:#f03c2e">Software Engineering Student</span> who is passionate about Computer and eager to explore Technology.</h3>
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vinothkanna273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinothkanna273" height="30" width="40" /></a>
-<a href="https://instagram.com/_thenameis_vinoth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thenameis_vinoth_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinoth-kanna-m-m-235ab5228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinothkanna273" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/_thenameis_vinoth_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thenameis_vinoth_" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/vinothkanna273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinothkanna273" height="30" width="40" /></a>
 </p>
 
